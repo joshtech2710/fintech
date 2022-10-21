@@ -28,4 +28,9 @@ ten
 =======
 eleven
 twelve
+<<<<<<< HEAD
+one
+two
+=======
 >>>>>>> newbranch
+>>>>>>> master
