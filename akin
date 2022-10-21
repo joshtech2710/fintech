@@ -10,7 +10,11 @@ nine
 ten
 eleven
 twelve
+<<<<<<< HEAD
+one
+=======
 one 
+>>>>>>> newbranch
 two
 three
 four
@@ -20,7 +24,13 @@ seven
 eight
 nine
 ten
+<<<<<<< HEAD
+=======
 eleven
 twelve
+<<<<<<< HEAD
 one
 two
+=======
+>>>>>>> newbranch
+>>>>>>> master
